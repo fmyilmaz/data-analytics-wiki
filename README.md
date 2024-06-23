@@ -262,7 +262,3 @@ We welcome contributions from the community! If you would like to contribute, pl
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions, feel free to open an issue or contact us at [your-email@example.com].
